@@ -1,0 +1,41 @@
+body{
+    background-color:grey !important ;
+    
+        }
+        .center{
+            margin-top: 50px;
+    text-align: center;
+    
+        }
+    #one,#two,#three{
+        display: inline-block;
+    
+        background-color: bisque;
+        font-size: 30px;
+        width: 80px;
+    
+    }
+    .button1{
+    
+        display: block;
+    }
+    .record{
+       
+       padding: 20px 30px;
+       margin: 40px auto;
+        border:2px solid indigo;
+width: 200px;
+background-color: lightslategrey;
+    }
+    .mainhead{
+margin-bottom: 10px;
+color: lightblue;
+
+    }
+    #but1,#but2,#button3{
+margin-top: 10px;
+padding: 5px 7px;
+background-color: royalblue;
+color: whitesmoke;
+
+    }
